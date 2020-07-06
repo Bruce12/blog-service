@@ -1,0 +1,121 @@
+2020-06-22 10:19:28,759 INFO 50391 [egg-logrotator] agent logger reload: got log-reload message
+2020-06-22 14:17:40,476 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 324822ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-22 16:50:55,113 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 73564ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-22 17:03:43,335 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 741045ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-22 19:06:08,183 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 103903ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-22 19:07:16,141 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 67954ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-22 20:52:47,505 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 6311321ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-22 22:44:50,831 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 2382212ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-22 23:16:47,782 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 1876838ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-23 02:06:53,602 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 6913100ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-23 08:01:11,999 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 21237088ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-23 08:17:25,217 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 213796ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-23 10:07:25,248 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 2626265ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+

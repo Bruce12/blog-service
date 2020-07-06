@@ -1,0 +1,112 @@
+2020-06-23 12:57:15,898 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 649332ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-23 19:07:29,030 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 2207827ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-23 19:47:32,131 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 2356690ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-23 20:42:38,824 ERROR 50391 nodejs.ClusterClientNoResponseError: client no response in 3264714ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 50391
+hostname: MacBook-Pro.local
+
+2020-06-23 21:31:39,591 ERROR 63570 [-/127.0.0.1/-/8ms POST /v2/essay] nodejs.ValidationError: Essay validation failed: content: Path `content` is required.
+    at new ValidationError (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/error/validation.js:31:11)
+    at model.Document.invalidate (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/document.js:2554:32)
+    at /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/document.js:2376:17
+    at /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/schematype.js:1099:9
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+errors: {"content":{"message":"Path `content` is required.","name":"ValidatorError","properties":{"message":"Path `content` is required.","type":"required","path":"content","value":""},"kind":"required","path":"content","value":""}}
+_message: "Essay validation failed"
+message: "Essay validation failed: content: Path `content` is required."
+name: "ValidationError"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 63570
+hostname: MacBook-Pro.local
+
+2020-06-23 21:31:44,451 ERROR 63570 [-/127.0.0.1/-/2ms POST /v2/essay] nodejs.ValidationError: Essay validation failed: content: Path `content` is required.
+    at new ValidationError (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/error/validation.js:31:11)
+    at model.Document.invalidate (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/document.js:2554:32)
+    at /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/document.js:2376:17
+    at /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/schematype.js:1099:9
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+errors: {"content":{"message":"Path `content` is required.","name":"ValidatorError","properties":{"message":"Path `content` is required.","type":"required","path":"content","value":""},"kind":"required","path":"content","value":""}}
+_message: "Essay validation failed"
+message: "Essay validation failed: content: Path `content` is required."
+name: "ValidationError"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 63570
+hostname: MacBook-Pro.local
+
+2020-06-23 21:31:45,137 ERROR 63570 [-/127.0.0.1/-/2ms POST /v2/essay] nodejs.ValidationError: Essay validation failed: content: Path `content` is required.
+    at new ValidationError (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/error/validation.js:31:11)
+    at model.Document.invalidate (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/document.js:2554:32)
+    at /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/document.js:2376:17
+    at /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_mongoose@5.9.9@mongoose/lib/schematype.js:1099:9
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+errors: {"content":{"message":"Path `content` is required.","name":"ValidatorError","properties":{"message":"Path `content` is required.","type":"required","path":"content","value":""},"kind":"required","path":"content","value":""}}
+_message: "Essay validation failed"
+message: "Essay validation failed: content: Path `content` is required."
+name: "ValidationError"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 63570
+hostname: MacBook-Pro.local
+
+2020-06-24 09:36:29,236 ERROR 63988 nodejs.ClusterClientNoResponseError: client no response in 42467850ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 63988
+hostname: MacBook-Pro.local
+
+2020-06-24 09:47:46,957 ERROR 63988 nodejs.ClusterClientNoResponseError: client no response in 653474ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 63988
+hostname: MacBook-Pro.local
+
+2020-06-24 10:15:57,823 ERROR 63988 nodejs.ClusterClientNoResponseError: client no response in 1690861ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 63988
+hostname: MacBook-Pro.local
+

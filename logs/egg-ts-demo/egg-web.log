@@ -1,0 +1,48 @@
+2020-07-05 03:11:05,364 INFO 64266 [egg-logrotator] app logger reload: got log-reload message
+2020-07-05 07:37:51,396 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 08:25:05,154 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 08:59:25,546 ERROR 64266 [egg-mongoose] mongodb://127.0.0.1/blog disconnected
+2020-07-05 10:43:19,923 INFO 2027 [egg:logger] init all loggers with options: {"dir":"/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-ts-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-05 10:43:19,948 INFO 2027 [egg-multipart] stream mode enable
+2020-07-05 10:43:20,416 INFO 2027 [egg-mongoose] connecting mongodb://127.0.0.1/blog
+2020-07-05 10:43:20,802 INFO 2027 [egg-static] starting static serve /public/ -> /Users/lanjianhua/Desktop/lanjianhua/service/app/public
+2020-07-05 10:43:20,805 INFO 2027 [egg-security] use methodnoallow middleware
+2020-07-05 10:43:20,806 INFO 2027 [egg-security] use noopen middleware
+2020-07-05 10:43:20,807 INFO 2027 [egg-security] use nosniff middleware
+2020-07-05 10:43:20,807 INFO 2027 [egg-security] use xssProtection middleware
+2020-07-05 10:43:20,808 INFO 2027 [egg-security] use xframe middleware
+2020-07-05 10:43:20,808 INFO 2027 [egg-security] use dta middleware
+2020-07-05 10:43:20,809 INFO 2027 [egg-security] compose 6 middlewares into one security middleware
+2020-07-05 10:43:20,897 INFO 2027 [egg:core] dump config after load, 6ms
+2020-07-05 10:43:20,901 INFO 2027 [egg-mongoose] starting...
+2020-07-05 10:43:20,928 INFO 2027 [egg-mongoose] mongodb://127.0.0.1/blog connected successfully
+2020-07-05 10:43:20,936 INFO 2027 [egg-mongoose] instance[0] start successfully
+2020-07-05 10:43:20,942 INFO 2027 [egg-watcher:application] watcher start success
+2020-07-05 10:43:20,965 INFO 2027 [egg:core] dump config after ready, 5ms
+2020-07-05 10:58:07,144 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 11:15:05,916 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 13:08:45,292 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 14:03:00,621 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 14:26:46,183 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 15:49:24,766 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 16:09:29,388 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 21:51:19,663 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 22:03:21,406 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 22:32:24,241 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 22:52:07,994 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-05 23:15:18,962 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 00:49:28,638 WARN 2027 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-07-06 00:49:29,075 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 07:18:14,012 WARN 2027 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-07-06 07:18:14,033 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 07:32:31,381 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 07:52:25,723 WARN 2027 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-07-06 07:52:25,724 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 09:16:57,225 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 09:49:46,922 WARN 2027 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-07-06 09:49:46,923 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 11:47:35,473 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 18:22:05,635 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 19:29:19,846 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 19:30:38,090 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-07-06 21:17:54,162 WARN 2027 [ClusterClient:Watcher] follower closed, and try to init it again
