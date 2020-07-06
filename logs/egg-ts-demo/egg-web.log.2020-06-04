@@ -1,0 +1,58 @@
+2020-06-04 14:02:20,438 INFO 18450 [egg-logrotator] app logger reload: got log-reload message
+2020-06-04 17:06:21,436 INFO 18450 [-/127.0.0.1/-/24ms SCHEDULE /__schedule?path=/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/tmp/egg-multipart-tmp/egg-ts-demo"
+2020-06-04 17:06:21,461 INFO 18450 [-/127.0.0.1/-/54ms SCHEDULE /__schedule?path=/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-06-04 21:58:41,812 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-04 22:42:01,993 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-04 22:57:01,127 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-04 23:15:02,488 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-04 23:32:04,662 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-04 23:48:27,864 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 00:09:20,100 WARN 18450 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-05 00:09:20,105 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 00:29:08,209 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 00:46:36,345 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 01:01:35,963 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 01:15:06,180 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 01:28:13,681 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 01:41:06,598 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 01:54:19,562 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 02:08:09,962 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 02:21:22,299 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 02:35:14,913 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 02:48:24,948 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 03:01:17,550 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 03:14:09,600 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 03:27:21,991 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 03:40:14,923 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 03:54:26,662 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 04:07:20,359 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 04:20:13,596 WARN 18450 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-05 04:20:13,598 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 04:33:26,302 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 04:46:24,862 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 04:59:17,482 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 05:12:15,590 WARN 18450 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-05 05:12:15,593 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 05:25:29,520 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 05:38:22,019 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 05:51:34,098 WARN 18450 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-05 05:51:34,118 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 06:04:27,160 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 06:17:19,518 WARN 18450 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-05 06:17:19,523 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 06:31:31,982 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 06:44:30,395 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 06:57:22,114 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 07:11:35,120 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 07:25:27,860 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 07:38:40,934 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 07:51:24,909 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 08:05:08,108 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 08:20:58,225 WARN 18450 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-05 08:20:58,225 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 08:27:12,431 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 10:16:07,076 WARN 18450 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-05 10:16:07,078 WARN 18450 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 10:30:21,206 INFO 18450 [egg-logrotator] clean all log before 31 days
+2020-06-05 10:30:21,993 INFO 18450 [egg-logrotator] broadcast log-reload
+2020-06-05 10:30:21,994 INFO 18450 [egg-logrotator] rotate files success by DayRotator, files ["/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/common-error.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/common-error.log.2020-06-04","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-ts-demo-web.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-ts-demo-web.log.2020-06-04","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-web.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-web.log.2020-06-04","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-schedule.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-schedule.log.2020-06-04","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-agent.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-agent.log.2020-06-04"]

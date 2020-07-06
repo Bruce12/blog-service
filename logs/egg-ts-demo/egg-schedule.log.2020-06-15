@@ -1,0 +1,117 @@
+2020-06-05 15:18:45,497 INFO 18450 [Job#15913415254153403602973827737] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2020-06-05 15:18:45,567 INFO 18450 [Job#15913415254153403602973827737] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 53ms
+2020-06-05 15:18:45,475 INFO 18424 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47474563ms at 2020-06-06 04:30:00.037
+2020-06-06 15:07:13,280 INFO 82960 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-06 15:07:13,280 INFO 82960 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-06 15:07:13,280 INFO 82960 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-06 15:07:13,280 INFO 82960 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-06 22:47:25,900 INFO 85834 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20554103ms at 2020-06-07 04:30:00.003
+2020-06-06 22:47:25,901 INFO 85834 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 4354099ms at 2020-06-07 00:00:00.000
+2020-06-06 22:47:25,901 INFO 85834 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4355099ms at 2020-06-07 00:00:01.000
+2020-06-06 22:47:25,901 INFO 85834 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts next time will execute after 36000000000ms at 2021-07-28 14:47:25.901
+2020-06-06 22:47:25,306 INFO 85863 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-06 22:47:25,306 INFO 85863 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-06 22:47:25,306 INFO 85863 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-06 22:47:25,306 INFO 85863 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 10:15:26,981 INFO 712 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 65673021ms at 2020-06-08 04:30:00.002
+2020-06-07 10:15:26,981 INFO 712 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 49473019ms at 2020-06-08 00:00:00.000
+2020-06-07 10:15:26,982 INFO 712 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 49474019ms at 2020-06-08 00:00:01.001
+2020-06-07 10:15:26,982 INFO 712 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts next time will execute after 36000000000ms at 2021-07-29 02:15:26.982
+2020-06-07 10:15:26,176 INFO 720 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 10:15:26,176 INFO 720 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 10:15:26,176 INFO 720 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 10:15:26,176 INFO 720 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 15:04:34,609 INFO 1849 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 15:04:34,609 INFO 1849 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 15:04:34,609 INFO 1849 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 15:04:34,609 INFO 1849 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 15:05:01,186 INFO 1870 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 15:05:01,186 INFO 1870 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 15:05:01,186 INFO 1870 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 15:05:01,186 INFO 1870 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 15:07:35,015 INFO 1930 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 15:07:35,015 INFO 1930 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 15:07:35,015 INFO 1930 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 15:07:35,015 INFO 1930 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 15:28:19,563 INFO 2016 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 15:28:19,563 INFO 2016 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 15:28:19,563 INFO 2016 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 15:28:19,563 INFO 2016 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 15:30:08,966 INFO 2044 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 15:30:08,966 INFO 2044 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 15:30:08,966 INFO 2044 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 15:30:08,966 INFO 2044 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 15:31:29,704 INFO 2084 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 15:31:29,705 INFO 2084 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 15:31:29,705 INFO 2084 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 15:31:29,705 INFO 2084 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 15:43:13,863 INFO 2209 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 15:43:13,863 INFO 2209 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 15:43:13,863 INFO 2209 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 15:43:13,863 INFO 2209 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 15:53:42,999 INFO 2352 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 15:53:42,999 INFO 2352 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 15:53:42,999 INFO 2352 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 15:53:42,999 INFO 2352 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 15:54:15,441 INFO 2394 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 15:54:15,441 INFO 2394 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 15:54:15,441 INFO 2394 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 15:54:15,441 INFO 2394 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 15:54:15,811 INFO 2392 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45344192ms at 2020-06-08 04:30:00.003
+2020-06-07 15:54:15,811 INFO 2392 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 29144189ms at 2020-06-08 00:00:00.000
+2020-06-07 15:54:15,812 INFO 2392 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29145188ms at 2020-06-08 00:00:01.000
+2020-06-07 15:54:15,812 INFO 2392 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts next time will execute after 36000000000ms at 2021-07-29 07:54:15.812
+2020-06-07 15:58:05,219 INFO 2449 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 15:58:05,219 INFO 2449 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 15:58:05,219 INFO 2449 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 15:58:05,219 INFO 2449 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 16:45:03,437 INFO 2625 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42296566ms at 2020-06-08 04:30:00.003
+2020-06-07 16:45:03,437 INFO 2625 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 26096563ms at 2020-06-08 00:00:00.000
+2020-06-07 16:45:03,437 INFO 2625 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26097563ms at 2020-06-08 00:00:01.000
+2020-06-07 16:45:03,437 INFO 2625 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts next time will execute after 36000000000ms at 2021-07-29 08:45:03.437
+2020-06-07 16:45:02,841 INFO 2627 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 16:45:02,841 INFO 2627 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 16:45:02,841 INFO 2627 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 16:45:02,841 INFO 2627 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 16:52:47,262 INFO 2663 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 16:52:47,262 INFO 2663 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 16:52:47,262 INFO 2663 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 16:52:47,262 INFO 2663 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 16:53:14,884 INFO 2680 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 16:53:14,884 INFO 2680 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 16:53:14,884 INFO 2680 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 16:53:14,884 INFO 2680 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-07 17:09:16,005 INFO 2846 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-07 17:09:16,005 INFO 2846 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-07 17:09:16,005 INFO 2846 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-07 17:09:16,005 INFO 2846 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-15 12:43:40,963 INFO 78027 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-15 12:43:40,963 INFO 78027 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-15 12:43:40,963 INFO 78027 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-15 12:43:40,963 INFO 78027 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-15 12:43:41,999 INFO 78022 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 56778007ms at 2020-06-16 04:30:00.006
+2020-06-15 12:43:41,999 INFO 78022 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 40578001ms at 2020-06-16 00:00:00.000
+2020-06-15 12:43:41,999 INFO 78022 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 40579001ms at 2020-06-16 00:00:01.000
+2020-06-15 12:43:41,999 INFO 78022 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts next time will execute after 36000000000ms at 2021-08-06 04:43:41.999
+2020-06-15 14:12:27,224 INFO 78664 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-15 14:12:27,224 INFO 78664 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-15 14:12:27,224 INFO 78664 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-15 14:12:27,224 INFO 78664 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-15 14:13:05,681 INFO 78704 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-15 14:13:05,681 INFO 78704 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-15 14:13:05,681 INFO 78704 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-15 14:13:05,681 INFO 78704 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-15 14:19:55,502 INFO 78876 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-15 14:19:55,502 INFO 78876 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-06-15 14:19:55,502 INFO 78876 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-15 14:19:55,502 INFO 78876 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts
+2020-06-15 14:19:57,977 INFO 78875 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 51002026ms at 2020-06-16 04:30:00.003
+2020-06-15 14:19:57,978 INFO 78875 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 34802023ms at 2020-06-16 00:00:00.001
+2020-06-15 14:19:57,978 INFO 78875 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34803022ms at 2020-06-16 00:00:01.000
+2020-06-15 14:19:57,978 INFO 78875 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts next time will execute after 36000000000ms at 2021-08-06 06:19:57.978
+2020-06-16 08:37:18,946 INFO 78875 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 55361076ms at 2020-06-17 00:00:00.022
+2020-06-16 08:37:19,864 INFO 78875 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 55361141ms at 2020-06-17 00:00:01.005
+2020-06-16 08:37:19,025 INFO 78876 [Job#1592267838894347221859236551] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js executing by app
+2020-06-16 08:37:19,264 INFO 78876 [Job#1592267838894347221859236551] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js execute succeed, used 220ms
+2020-06-16 08:37:19,861 INFO 78876 [Job#1592267839858347222447962351] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-06-16 08:37:19,878 INFO 78876 [Job#1592267839858347222447962351] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 16ms

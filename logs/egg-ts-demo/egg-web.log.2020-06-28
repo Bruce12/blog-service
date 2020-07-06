@@ -1,0 +1,28 @@
+2020-06-28 08:43:50,957 INFO 64266 [egg-logrotator] app logger reload: got log-reload message
+2020-06-28 09:19:01,132 INFO 64266 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/tmp/egg-multipart-tmp/egg-ts-demo"
+2020-06-28 09:19:01,136 INFO 64266 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-06-28 10:12:24,240 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-28 10:23:29,798 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-28 12:42:38,867 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-28 15:27:23,842 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-28 18:59:07,968 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-28 19:07:52,215 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-28 21:21:32,051 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-28 21:25:32,827 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-28 21:55:59,648 WARN 64266 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-28 21:55:59,648 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-28 23:14:11,728 WARN 64266 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-28 23:14:11,728 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-29 02:22:37,307 WARN 64266 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-29 02:22:37,900 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-29 09:29:14,178 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-29 09:32:55,612 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-29 10:47:05,284 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-29 11:05:08,126 WARN 64266 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-29 11:05:08,127 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-29 11:22:20,401 WARN 64266 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-29 11:22:20,401 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-29 11:23:36,581 WARN 64266 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-29 11:45:04,385 INFO 64266 [egg-logrotator] clean all log before 31 days
+2020-06-29 11:45:05,190 INFO 64266 [egg-logrotator] broadcast log-reload
+2020-06-29 11:45:05,190 INFO 64266 [egg-logrotator] rotate files success by DayRotator, files ["/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/common-error.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/common-error.log.2020-06-28","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-ts-demo-web.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-ts-demo-web.log.2020-06-28","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-web.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-web.log.2020-06-28","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-schedule.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-schedule.log.2020-06-28","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-agent.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-agent.log.2020-06-28"]

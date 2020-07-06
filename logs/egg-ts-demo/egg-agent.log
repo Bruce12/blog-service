@@ -1,0 +1,291 @@
+2020-07-05 03:11:05,323 INFO 63988 [egg-logrotator] agent logger reload: got log-reload message
+2020-07-05 07:37:51,401 ERROR 63988 nodejs.ClusterClientNoResponseError: client no response in 16006362ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 63988
+hostname: MacBook-Pro.local
+
+2020-07-05 08:25:05,155 ERROR 63988 nodejs.ClusterClientNoResponseError: client no response in 92921ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 63988
+hostname: MacBook-Pro.local
+
+2020-07-05 10:43:16,354 INFO 2016 [egg:logger] init all loggers with options: {"dir":"/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-ts-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-07-05 10:43:16,368 INFO 2016 [egg:core] dump config after load, 5ms
+2020-07-05 10:43:16,449 INFO 2016 [egg-watcher] Start watching: ["/Users/lanjianhua/Desktop/lanjianhua/service/app","/Users/lanjianhua/Desktop/lanjianhua/service/config","/Users/lanjianhua/Desktop/lanjianhua/service/mocks","/Users/lanjianhua/Desktop/lanjianhua/service/mocks_proxy","/Users/lanjianhua/Desktop/lanjianhua/service/app.js"]
+2020-07-05 10:43:16,449 INFO 2016 [egg-watcher] Start watching: "/Users/lanjianhua/Desktop/lanjianhua/service/app"
+2020-07-05 10:43:16,450 INFO 2016 [egg-watcher] Start watching: "/Users/lanjianhua/Desktop/lanjianhua/service/config"
+2020-07-05 10:43:16,450 INFO 2016 [egg-watcher] Start watching: "/Users/lanjianhua/Desktop/lanjianhua/service/mocks"
+2020-07-05 10:43:16,450 INFO 2016 [egg-watcher] Start watching: "/Users/lanjianhua/Desktop/lanjianhua/service/mocks_proxy"
+2020-07-05 10:43:16,450 INFO 2016 [egg-watcher] Start watching: "/Users/lanjianhua/Desktop/lanjianhua/service/app.js"
+2020-07-05 10:43:16,450 INFO 2016 [egg-watcher:agent] watcher start success
+2020-07-05 10:43:16,475 INFO 2016 [egg:core] dump config after ready, 6ms
+2020-07-05 10:58:07,897 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 301839ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 11:15:05,918 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 977997ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 13:08:45,292 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 6819367ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 14:03:00,622 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 515042ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 14:26:46,188 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 197934ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 15:49:24,767 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 532386ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 16:09:29,389 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 1204617ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 21:51:19,663 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 20510271ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 22:03:21,407 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 361694ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 22:32:24,242 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 280826ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 22:52:07,995 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 203585ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-05 23:15:18,965 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 1390965ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 00:49:28,139 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 5648474ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 07:18:13,974 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 23324639ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 07:32:31,382 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 297981ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 07:52:25,724 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 614262ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 09:16:57,226 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 5031474ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 09:49:46,923 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 469432ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 11:47:35,476 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 125722ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 18:22:05,635 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 1024782ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 19:29:19,847 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 170678ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 19:30:38,091 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 78235ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 21:17:54,163 ERROR 2016 nodejs.ClusterClientNoResponseError: client no response in 6436067ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2016
+hostname: MacBook-Pro.local
+
+2020-07-06 22:06:20,546 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/graphql/index.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894468,"size":2019,"blocks":8,"atimeMs":1587287629000,"mtimeMs":1583905741000,"ctimeMs":1591357471025.6245,"birthtimeMs":1583905741000,"atime":"2020-04-19T09:13:49.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.026Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,584 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/extend/application.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894457,"size":337,"blocks":8,"atimeMs":1587287625000,"mtimeMs":1583905741000,"ctimeMs":1591357471024.3838,"birthtimeMs":1583905741000,"atime":"2020-04-19T09:13:45.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.024Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,585 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/controller/essay.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4723384,"size":780,"blocks":8,"atimeMs":1592916367830.1973,"mtimeMs":1592916367479.7559,"ctimeMs":1592916367479.7559,"birthtimeMs":1591515005669.6824,"atime":"2020-06-23T12:46:07.830Z","mtime":"2020-06-23T12:46:07.480Z","ctime":"2020-06-23T12:46:07.480Z","birthtime":"2020-06-07T07:30:05.670Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,586 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/controller/login.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894463,"size":376,"blocks":8,"atimeMs":1590568215000,"mtimeMs":1590568206000,"ctimeMs":1591357471025.032,"birthtimeMs":1590568206000,"atime":"2020-05-27T08:30:15.000Z","mtime":"2020-05-27T08:30:06.000Z","ctime":"2020-06-05T11:44:31.025Z","birthtime":"2020-05-27T08:30:06.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,587 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/controller/baseController.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":6990024,"size":911,"blocks":8,"atimeMs":1592729374683.9204,"mtimeMs":1592729374310.362,"ctimeMs":1592729374310.362,"birthtimeMs":1592699744352.052,"atime":"2020-06-21T08:49:34.684Z","mtime":"2020-06-21T08:49:34.310Z","ctime":"2020-06-21T08:49:34.310Z","birthtime":"2020-06-21T00:35:44.352Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,588 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/controller/dictValue.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894464,"size":265,"blocks":8,"atimeMs":1592703095196.6228,"mtimeMs":1592703094667.0654,"ctimeMs":1592703094667.0654,"birthtimeMs":1590766304000,"atime":"2020-06-21T01:31:35.197Z","mtime":"2020-06-21T01:31:34.667Z","ctime":"2020-06-21T01:31:34.667Z","birthtime":"2020-05-29T15:31:44.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,588 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/controller/home.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894465,"size":1580,"blocks":8,"atimeMs":1590550741000,"mtimeMs":1590550737000,"ctimeMs":1591357471025.101,"birthtimeMs":1590550737000,"atime":"2020-05-27T03:39:01.000Z","mtime":"2020-05-27T03:38:57.000Z","ctime":"2020-06-05T11:44:31.025Z","birthtime":"2020-05-27T03:38:57.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,590 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/router.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":883359,"size":828,"blocks":8,"atimeMs":1591516700362.061,"mtimeMs":1591516683955.4197,"ctimeMs":1591516683955.4197,"birthtimeMs":1590737110000,"atime":"2020-06-07T07:58:20.362Z","mtime":"2020-06-07T07:58:03.955Z","ctime":"2020-06-07T07:58:03.955Z","birthtime":"2020-05-29T07:25:10.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,591 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/io/middleware/packet.js","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":915049,"size":185,"blocks":8,"atimeMs":1587286783000,"mtimeMs":1583905741000,"ctimeMs":1591357471024.7305,"birthtimeMs":1583905741000,"atime":"2020-04-19T08:59:43.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.025Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,591 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/io/middleware/connection.js","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":915047,"size":183,"blocks":8,"atimeMs":1587286783000,"mtimeMs":1583905741000,"ctimeMs":1591357471024.7058,"birthtimeMs":1583905741000,"atime":"2020-04-19T08:59:43.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.025Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,591 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/io/controller/chat.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":915051,"size":254,"blocks":8,"atimeMs":1587287629000,"mtimeMs":1583905741000,"ctimeMs":1591357471024.797,"birthtimeMs":1583905741000,"atime":"2020-04-19T09:13:49.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.025Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,592 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/graphql/schemaResolver/userResolver.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":915055,"size":523,"blocks":8,"atimeMs":1587287629000,"mtimeMs":1583905741000,"ctimeMs":1591357471025.5579,"birthtimeMs":1583905741000,"atime":"2020-04-19T09:13:49.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.026Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,593 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/graphql/schemaResolver/studentResolver.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":915053,"size":580,"blocks":8,"atimeMs":1587287629000,"mtimeMs":1583905741000,"ctimeMs":1591357471025.4485,"birthtimeMs":1583905741000,"atime":"2020-04-19T09:13:49.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.025Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,594 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/service/essay.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4723512,"size":661,"blocks":8,"atimeMs":1592919567335.5166,"mtimeMs":1592919567028.5574,"ctimeMs":1592919567028.5574,"birthtimeMs":1591515086222.957,"atime":"2020-06-23T13:39:27.336Z","mtime":"2020-06-23T13:39:27.029Z","ctime":"2020-06-23T13:39:27.029Z","birthtime":"2020-06-07T07:31:26.223Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,595 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/service/login.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894478,"size":306,"blocks":8,"atimeMs":1590633987000,"mtimeMs":1590633974000,"ctimeMs":1591357471026.117,"birthtimeMs":1590633974000,"atime":"2020-05-28T02:46:27.000Z","mtime":"2020-05-28T02:46:14.000Z","ctime":"2020-06-05T11:44:31.026Z","birthtime":"2020-05-28T02:46:14.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,595 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/service/dictValue.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894479,"size":369,"blocks":8,"atimeMs":1592703173095.8787,"mtimeMs":1592703172693.4346,"ctimeMs":1592703172693.4346,"birthtimeMs":1590738404000,"atime":"2020-06-21T01:32:53.096Z","mtime":"2020-06-21T01:32:52.693Z","ctime":"2020-06-21T01:32:52.693Z","birthtime":"2020-05-29T07:46:44.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,596 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/utils/date.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":6996686,"size":874,"blocks":8,"atimeMs":1592722304285.6667,"mtimeMs":1592722304057.557,"ctimeMs":1592722304057.557,"birthtimeMs":1592706141927.7297,"atime":"2020-06-21T06:51:44.286Z","mtime":"2020-06-21T06:51:44.058Z","ctime":"2020-06-21T06:51:44.058Z","birthtime":"2020-06-21T02:22:21.928Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,596 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/schedule/addUserJob.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894459,"size":618,"blocks":8,"atimeMs":1587287628000,"mtimeMs":1583905741000,"ctimeMs":1591357471024.5166,"birthtimeMs":1583905741000,"atime":"2020-04-19T09:13:48.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.025Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,599 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/model/Essay.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4718923,"size":881,"blocks":8,"atimeMs":1592919022783.7292,"mtimeMs":1592919022506.7625,"ctimeMs":1592919022506.7625,"birthtimeMs":1591513651657.4678,"atime":"2020-06-23T13:30:22.784Z","mtime":"2020-06-23T13:30:22.507Z","ctime":"2020-06-23T13:30:22.507Z","birthtime":"2020-06-07T07:07:31.657Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,600 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/model/Login.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894470,"size":524,"blocks":8,"atimeMs":1590731657000,"mtimeMs":1590731653000,"ctimeMs":1591357471025.78,"birthtimeMs":1590731653000,"atime":"2020-05-29T05:54:17.000Z","mtime":"2020-05-29T05:54:13.000Z","ctime":"2020-06-05T11:44:31.026Z","birthtime":"2020-05-29T05:54:13.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,601 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/model/Student.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894471,"size":1106,"blocks":8,"atimeMs":1587287625000,"mtimeMs":1583905741000,"ctimeMs":1591357471025.8286,"birthtimeMs":1583905741000,"atime":"2020-04-19T09:13:45.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.026Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,602 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/model/DictValue.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894473,"size":576,"blocks":8,"atimeMs":1590763212000,"mtimeMs":1590763207000,"ctimeMs":1591357471025.8896,"birthtimeMs":1590763207000,"atime":"2020-05-29T14:40:12.000Z","mtime":"2020-05-29T14:40:07.000Z","ctime":"2020-06-05T11:44:31.026Z","birthtime":"2020-05-29T14:40:07.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,602 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/model/User.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894474,"size":1090,"blocks":8,"atimeMs":1590558125000,"mtimeMs":1590558120000,"ctimeMs":1591357471025.9402,"birthtimeMs":1590558120000,"atime":"2020-05-27T05:42:05.000Z","mtime":"2020-05-27T05:42:00.000Z","ctime":"2020-06-05T11:44:31.026Z","birthtime":"2020-05-27T05:42:00.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,603 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/model/BaseModel.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894476,"size":885,"blocks":8,"atimeMs":1592965088901.8398,"mtimeMs":1592965088642.5461,"ctimeMs":1592965088642.5461,"birthtimeMs":1590634038000,"atime":"2020-06-24T02:18:08.902Z","mtime":"2020-06-24T02:18:08.643Z","ctime":"2020-06-24T02:18:08.643Z","birthtime":"2020-05-28T02:47:18.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,604 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/middleware/error_handler.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":6980227,"size":579,"blocks":8,"atimeMs":1592671238720.189,"mtimeMs":1592671238403.9932,"ctimeMs":1592671238403.9932,"birthtimeMs":1592670671289.6074,"atime":"2020-06-20T16:40:38.720Z","mtime":"2020-06-20T16:40:38.404Z","ctime":"2020-06-20T16:40:38.404Z","birthtime":"2020-06-20T16:31:11.290Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,604 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/service/user.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":894480,"size":847,"blocks":8,"atimeMs":1587287625000,"mtimeMs":1583905741000,"ctimeMs":1591357471026.2844,"birthtimeMs":1583905741000,"atime":"2020-04-19T09:13:45.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.026Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,605 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/config/config.local.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":883369,"size":143,"blocks":8,"atimeMs":1587287624000,"mtimeMs":1583905741000,"ctimeMs":1591357471026.9211,"birthtimeMs":1583905741000,"atime":"2020-04-19T09:13:44.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.027Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,605 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/config/config.prod.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":883373,"size":143,"blocks":8,"atimeMs":1587287629000,"mtimeMs":1583905741000,"ctimeMs":1591357471027.0764,"birthtimeMs":1583905741000,"atime":"2020-04-19T09:13:49.000Z","mtime":"2020-03-11T05:49:01.000Z","ctime":"2020-06-05T11:44:31.027Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,606 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/config/plugin.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":883371,"size":392,"blocks":8,"atimeMs":1592671467525.3254,"mtimeMs":1592671467236.1936,"ctimeMs":1592671467236.1936,"birthtimeMs":1583905741000,"atime":"2020-06-20T16:44:27.525Z","mtime":"2020-06-20T16:44:27.236Z","ctime":"2020-06-20T16:44:27.236Z","birthtime":"2020-03-11T05:49:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-07-06 22:06:20,606 INFO 2016 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/config/config.default.ts","stat":{"dev":16777221,"mode":33204,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":883375,"size":1415,"blocks":8,"atimeMs":1592671217012.7803,"mtimeMs":1592671216691.6335,"ctimeMs":1592671216691.6335,"birthtimeMs":1590292776000,"atime":"2020-06-20T16:40:17.013Z","mtime":"2020-06-20T16:40:16.692Z","ctime":"2020-06-20T16:40:16.692Z","birthtime":"2020-05-24T03:59:36.000Z"},"remove":false,"isDirectory":false,"isFile":true}

@@ -1,0 +1,15 @@
+2020-06-17 13:18:13,492 INFO 78876 [egg-logrotator] app logger reload: got log-reload message
+2020-06-17 14:55:32,947 WARN 78876 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-17 16:52:17,840 INFO 78876 [-/127.0.0.1/-/8ms SCHEDULE /__schedule?path=/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/tmp/egg-multipart-tmp/egg-ts-demo"
+2020-06-17 16:52:17,851 INFO 78876 [-/127.0.0.1/-/20ms SCHEDULE /__schedule?path=/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-06-17 19:06:30,758 WARN 78876 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-17 19:08:52,845 WARN 78876 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-17 20:17:40,552 WARN 78876 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-18 08:39:32,110 WARN 78876 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-18 10:21:10,579 WARN 78876 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-18 10:21:10,580 WARN 78876 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-18 13:15:47,581 WARN 78876 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-18 13:19:47,182 WARN 78876 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-18 13:47:47,159 INFO 78876 [egg-logrotator] clean all log before 31 days
+2020-06-18 13:47:48,144 INFO 78876 [egg-logrotator] broadcast log-reload
+2020-06-18 13:47:48,145 INFO 78876 [egg-logrotator] rotate files success by DayRotator, files ["/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/common-error.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/common-error.log.2020-06-17","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-ts-demo-web.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-ts-demo-web.log.2020-06-17","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-web.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-web.log.2020-06-17","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-schedule.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-schedule.log.2020-06-17","/Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-agent.log -> /Users/lanjianhua/Desktop/lanjianhua/service/logs/egg-ts-demo/egg-agent.log.2020-06-17"]

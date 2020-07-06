@@ -1,0 +1,158 @@
+2020-06-18 13:47:48,148 INFO 78875 [egg-logrotator] agent logger reload: got log-reload message
+2020-06-18 18:33:18,595 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 1855040ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-18 19:33:04,236 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 2412334ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-18 20:00:58,563 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 79830ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-18 20:08:28,977 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 422657ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-18 20:46:20,805 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 2250163ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-18 21:24:34,594 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 244150ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-18 22:17:06,138 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 2083808ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-18 22:24:28,127 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 181956ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-18 23:40:41,592 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 492058ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-18 23:43:17,171 WARN 78875 [agent:development] reload worker because /Users/lanjianhua/Desktop/lanjianhua/service/app/controller/Essay.ts change
+2020-06-18 23:43:16,922 INFO 78875 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/controller/Essay.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4723384,"size":490,"blocks":8,"atimeMs":1592201986219.0732,"mtimeMs":1592494996809.024,"ctimeMs":1592494996809.024,"birthtimeMs":1591515005669.6824,"atime":"2020-06-15T06:19:46.219Z","mtime":"2020-06-18T15:43:16.809Z","ctime":"2020-06-18T15:43:16.809Z","birthtime":"2020-06-07T07:30:05.670Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-06-18 23:44:16,645 WARN 78875 [agent:development] reload worker because /Users/lanjianhua/Desktop/lanjianhua/service/app/controller/Essay.ts change
+2020-06-18 23:44:16,441 INFO 78875 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/service/essay.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4723512,"size":513,"blocks":8,"atimeMs":1592201583868.5637,"mtimeMs":1592495056381.0295,"ctimeMs":1592495056381.0295,"birthtimeMs":1591515086222.957,"atime":"2020-06-15T06:13:03.869Z","mtime":"2020-06-18T15:44:16.381Z","ctime":"2020-06-18T15:44:16.381Z","birthtime":"2020-06-07T07:31:26.223Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-06-18 23:44:16,443 INFO 78875 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/controller/Essay.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4723384,"size":468,"blocks":8,"atimeMs":1592494997073.8071,"mtimeMs":1592495056380.9148,"ctimeMs":1592495056380.9148,"birthtimeMs":1591515005669.6824,"atime":"2020-06-18T15:43:17.074Z","mtime":"2020-06-18T15:44:16.381Z","ctime":"2020-06-18T15:44:16.381Z","birthtime":"2020-06-07T07:30:05.670Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-06-18 23:44:58,321 WARN 78875 [agent:development] reload worker because /Users/lanjianhua/Desktop/lanjianhua/service/app/service/essay.ts change
+2020-06-18 23:44:58,116 INFO 78875 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/lanjianhua/Desktop/lanjianhua/service/app/service/essay.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4723512,"size":516,"blocks":8,"atimeMs":1592495056649.9404,"mtimeMs":1592495098055.1313,"ctimeMs":1592495098055.1313,"birthtimeMs":1591515086222.957,"atime":"2020-06-18T15:44:16.650Z","mtime":"2020-06-18T15:44:58.055Z","ctime":"2020-06-18T15:44:58.055Z","birthtime":"2020-06-07T07:31:26.223Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-06-19 02:37:49,151 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 7246263ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-19 07:31:14,723 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 17602674ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-19 08:46:10,647 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 67718ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-19 08:49:54,230 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 183559ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-19 09:03:44,465 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 70082ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
+2020-06-19 10:15:21,939 ERROR 78875 nodejs.ClusterClientNoResponseError: client no response in 3762959ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 78875
+hostname: MacBook-Pro.local
+
