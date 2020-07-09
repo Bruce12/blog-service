@@ -28,3 +28,4 @@ mock/api
 *.sw*
 typings
 logs
+run
