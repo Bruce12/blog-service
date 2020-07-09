@@ -41,11 +41,11 @@ export default (appInfo: EggAppInfo) => {
     options: {},
   };
 
-  config.graphql = {
-    router: '/graphql',
-    // 是否加载到 app 上，默认开启
-    dateScalarMode: 'timestamp'
-  };
+  // config.graphql = {
+  //   router: '/graphql',
+  //   // 是否加载到 app 上，默认开启
+  //   dateScalarMode: 'timestamp'
+  // };
 
   config.middleware = ['errorHandler']
   config.errorHandler = { match: 'api' }
