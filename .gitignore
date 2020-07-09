@@ -27,3 +27,4 @@ mock/api
 *.sln
 *.sw*
 typings
+logs
