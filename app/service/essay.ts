@@ -11,7 +11,7 @@ export default class EssayService extends Service {
       const resData = await EssayModel.create(data)
       if (resData) true
       return false
-    }
+    } 
     public async getList(query: any) {
       const resData = await EssayModel.find(query, { _id: 1, title: 1, content: 1, type: 1 })
       return resData

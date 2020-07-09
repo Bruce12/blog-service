@@ -1,6 +1,0 @@
-2020-06-28 08:43:49,993 INFO 63988 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 54970047ms at 2020-06-29 00:00:00.040
-2020-06-28 08:43:49,958 INFO 64266 [Job#15933050299517942978554540775] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js executing by app
-2020-06-28 08:43:50,002 INFO 64266 [Job#15933050299517942978554540775] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js execute succeed, used 44ms
-2020-06-28 08:43:50,950 INFO 64266 [Job#15933050309457942988487317945] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js executing by app
-2020-06-28 08:43:50,955 INFO 64266 [Job#15933050309457942988487317945] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 5ms
-2020-06-28 08:43:50,954 INFO 63988 [Timer] /Users/lanjianhua/Desktop/lanjianhua/service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 54970055ms at 2020-06-29 00:00:01.009
