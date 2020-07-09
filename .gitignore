@@ -26,3 +26,4 @@ mock/api
 *.njsproj
 *.sln
 *.sw*
+typings
