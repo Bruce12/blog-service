@@ -1,12 +1,6 @@
 import BaseModel from './BaseModel'
 import {index, prop, instanceMethod } from 'typegoose'
 import { ObjectType, Field  }  from 'type-graphql'
-
-export interface IData {
-    title: string
-    type: string
-    content: string
-  }
   
 
 @ObjectType()
@@ -24,7 +18,7 @@ export class Essay extends BaseModel {
     @Field(() => String, { description: '内容' })
     content: string
     @instanceMethod
-    public createEssay(data: IData) {
+    public createEssay(data: any) {
       let essay = new Essay()
       essay.title = data.title
       essay.type = data.type

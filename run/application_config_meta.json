@@ -1,9 +1,9 @@
 {
-  "keys": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
-  "middleware": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
+  "keys": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js",
+  "middleware": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js",
   "security": {
     "csrf": {
-      "enable": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
+      "enable": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js",
       "type": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
       "ignoreJSON": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
       "useSession": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
@@ -22,7 +22,7 @@
       "value": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-security@2.8.0@egg-security/config/config.local.js",
+      "enable": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
       "maxAge": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
       "includeSubdomains": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
     },
@@ -56,35 +56,37 @@
     }
   },
   "io": {
-    "init": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
+    "init": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js",
     "namespace": {
       "/": {
-        "connectionMiddleware": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
-        "packetMiddleware": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts"
+        "connectionMiddleware": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js",
+        "packetMiddleware": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js"
       },
       "/chat": {
-        "connectionMiddleware": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
-        "packetMiddleware": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts"
+        "connectionMiddleware": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js",
+        "packetMiddleware": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js"
       }
     }
   },
   "cors": {
-    "origin": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
-    "allowMethods": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
-    "credentials": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts"
+    "origin": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js",
+    "allowMethods": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js",
+    "credentials": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js"
   },
   "mongoose": {
-    "url": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
-    "options": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
+    "url": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js",
+    "options": {
+      "useUnifiedTopology": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js"
+    },
     "plugins": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-mongoose@3.2.0@egg-mongoose/config/config.default.js",
     "loadModel": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-mongoose@3.2.0@egg-mongoose/config/config.default.js",
     "app": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-mongoose@3.2.0@egg-mongoose/config/config.default.js",
     "agent": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-mongoose@3.2.0@egg-mongoose/config/config.default.js"
   },
   "errorHandler": {
-    "match": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts"
+    "match": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js"
   },
-  "sourceUrl": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.ts",
+  "sourceUrl": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/config/config.default.js",
   "session": {
     "maxAge": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
     "key": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
@@ -113,7 +115,7 @@
     "cookieMaxAge": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-watcher@3.1.1@egg-watcher/config/config.local.js",
+    "type": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-watcher@3.1.1@egg-watcher/config/config.default.js",
     "eventSources": {
       "default": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-watcher@3.1.1@egg-watcher/config/config.default.js",
       "development": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-watcher@3.1.1@egg-watcher/config/config.default.js"
@@ -144,13 +146,6 @@
       "cron": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-multipart@2.10.2@egg-multipart/config/config.default.js"
     }
   },
-  "development": {
-    "watchDirs": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
-    "ignoreDirs": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
-    "fastReady": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
-    "overrideDefault": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js"
-  },
   "logrotator": {
     "filesRotateByHour": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
     "hourDelimiter": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
@@ -165,12 +160,13 @@
     "dir": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
     "dynamic": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
     "preload": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
-    "buffer": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
-    "maxFiles": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js"
+    "buffer": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-static@2.2.0@egg-static/config/config.prod.js",
+    "maxFiles": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "maxAge": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-static@2.2.0@egg-static/config/config.prod.js"
   },
   "view": {
     "root": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
-    "cache": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-view@2.1.2@egg-view/config/config.local.js",
+    "cache": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
     "defaultExtension": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
     "defaultViewEngine": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
     "mapping": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js"
@@ -297,9 +293,7 @@
     "coreLogName": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg@2.26.0@egg/config/config.default.js",
     "agentLogName": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg@2.26.0@egg/config/config.default.js",
     "errorLogName": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg@2.26.0@egg/config/config.default.js",
-    "coreLogger": {
-      "consoleLevel": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg@2.26.0@egg/config/config.local.js"
-    },
+    "coreLogger": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg@2.26.0@egg/config/config.default.js",
     "allowDebugAtProd": "/Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg@2.26.0@egg/config/config.default.js"
   },
   "httpclient": {

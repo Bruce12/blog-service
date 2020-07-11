@@ -1,8 +1,0 @@
-2020-07-09 22:51:49,139 INFO 42201 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js
-2020-07-09 22:51:49,139 INFO 42201 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
-2020-07-09 22:51:49,139 INFO 42201 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
-2020-07-09 22:51:49,139 INFO 42201 [egg-schedule]: register schedule /Users/lanjianhua/Desktop/lanjianhua/blog-service/app/schedule/addUserJob.ts
-2020-07-09 22:51:52,406 INFO 42186 [Timer] /Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-multipart@2.10.2@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20287597ms at 2020-07-10 04:30:00.003
-2020-07-09 22:51:52,407 INFO 42186 [Timer] /Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 4087594ms at 2020-07-10 00:00:00.001
-2020-07-09 22:51:52,407 INFO 42186 [Timer] /Users/lanjianhua/Desktop/lanjianhua/blog-service/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4088593ms at 2020-07-10 00:00:01.000
-2020-07-09 22:51:52,407 INFO 42186 [Timer] /Users/lanjianhua/Desktop/lanjianhua/blog-service/app/schedule/addUserJob.ts next time will execute after 36000000000ms at 2021-08-30 14:51:52.407

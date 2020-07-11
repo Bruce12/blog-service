@@ -1,5 +1,5 @@
 import { Service } from 'egg' 
-import { IData, EssayModel } from '../model/Essay'
+import { EssayModel } from '../model/Essay'
 
 interface IEditParams {
   _id: string
@@ -7,7 +7,7 @@ interface IEditParams {
 }
 
 export default class EssayService extends Service {
-    public async create(data: IData) {
+    public async create(data: any) {
       const resData = await EssayModel.create(data)
       if (resData) true
       return false

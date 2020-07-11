@@ -38,7 +38,9 @@ export default (appInfo: EggAppInfo) => {
 
   config.mongoose = {
     url: process.env.EGG_MONGODB_URL || 'mongodb://127.0.0.1/blog',
-    options: {},
+    options: {
+      useUnifiedTopology: true   
+    },
   };
 
   // config.graphql = {
