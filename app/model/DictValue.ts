@@ -1,14 +1,10 @@
 import baseModel from './BaseModel'
-import { index, prop } from 'typegoose'
+import { index, prop, getModelForClass } from '@typegoose/typegoose'
 import { ObjectType, Field } from 'type-graphql'
 
 @ObjectType()
 @index({ id: 1 })
 export class DictValue extends baseModel {
-  /**
-   * 2. mongoose 默认加s 的问题
-   * 
-   */
   @prop()
   @Field({ description: '字典Type' })
   type: string
@@ -21,4 +17,4 @@ export class DictValue extends baseModel {
   @Field({ description: '字典Value' })
   dictValue: string
 }
-export const DictValueModel = new DictValue().getModelForClass(DictValue)
+export const DictValueModel = getModelForClass(DictValue)

@@ -1,43 +1,9 @@
-import { Service } from 'egg';
-import { UserModel, User } from '../model/User';
+import { Service } from 'egg'
+import { UserModel } from '../model/User' 
 
-/**
- * 用户 Service 层
- */
 export default class UserService extends Service {
-
-  /**
-  * sayHi to you
-  * @param name - your name
-  */
-  public async sayHi(name: string) {
-    return `hi, ${name}`;
+  public async getUserByName(query: { username: string, pwd: string }) {
+    return UserModel.findOne({ username: query.username, password: query.pwd })
+    .select(['name', 'username', 'portrait', 'skill', 'hobby', 'brief']).exec()
   }
-
-  public async addUserByScheduleTest() {
-
-    const user = new UserModel();
-    user.userName = 'add user';
-    user.userNo = 99;
-
-    const res = await UserModel.create(user);
-    return res;
-  }
-
-  /**
-  * 测试用户的实例方法
-  */
-  public async testUserInstanceServiceMethods(): Promise<User> {
-    const newUser = new UserModel();
-
-    return await newUser.userInstanceTestMethods();
-  }
-
-  /**
-  * 测试用户的方法
-  */
-  public async testUserStaticServiceMethods(): Promise<User> {
-    return await UserModel.userStaticTestMethods();
-  }
-
 }

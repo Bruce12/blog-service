@@ -1,5 +1,5 @@
 import BaseModel from './BaseModel'
-import {index, prop, instanceMethod } from 'typegoose'
+import { index, prop, getModelForClass } from '@typegoose/typegoose'
 import { ObjectType, Field, Int  }  from 'type-graphql'
 
 @ObjectType()
@@ -13,9 +13,5 @@ export class Login extends BaseModel {
   @Field(() => Int, { description: '密码' })
   pwd: string
 
-  @instanceMethod
-  public async checkLogin() {
-
-  }
 }
-export const LoginModel = new Login().getModelForClass(Login)
+export const LoginModel = getModelForClass(Login)

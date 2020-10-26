@@ -1,5 +1,5 @@
 import { EggPlugin } from 'egg';
-
+// 开启一些插件
 const plugin: EggPlugin = {
   static: true,
   // mongoose
@@ -20,7 +20,11 @@ const plugin: EggPlugin = {
   validate: {
     enable: true,
     package: 'egg-validate'
+  },
+  oAuth2Server: {
+    enable: true,
+    package: 'egg-oauth2-server'
   }
-};
+}
 
 export default plugin;
