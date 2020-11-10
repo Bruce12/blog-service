@@ -7,8 +7,8 @@ const crypto = require('crypto')
 const aliFileInfo = {
   region: 'oss-cn-beijing',
   bucket: 'imgljh',
-  accessKeyId: 'LTAI4G1N2ruoY1QXj8auTP6D',
-  accessKeySecret: 'HQYek62Xr0nvpLaTNXrUDUgnItfqNC',
+  accessKeyId: '',
+  accessKeySecret: '',
   cname: true,
   isRequestPay: true,
   endpoint: 'img.agatha.fun',
