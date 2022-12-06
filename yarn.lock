@@ -3133,9 +3133,9 @@ egg-development@^2.4.2:
     mz-modules "^2.1.0"
     utility "^1.13.1"
 
-egg-graphql@^2.7.0:
+egg-graphql@^2.8.0:
   version "2.8.0"
-  resolved "https://registry.yarnpkg.com/egg-graphql/-/egg-graphql-2.8.0.tgz#175e97b667919dba6241ea0b5108fa7eec3cf184"
+  resolved "https://registry.npmmirror.com/egg-graphql/-/egg-graphql-2.8.0.tgz#175e97b667919dba6241ea0b5108fa7eec3cf184"
   integrity sha512-GV4shDPjz7XxXfOmvzaT0FIXeCwD1joqANZ3V/MiTR4eePMjJfIN8ckY1MSAlyYtphuwugqR3ZNlEqSAbZoy/w==
   dependencies:
     apollo-server-koa "2.0.4"
